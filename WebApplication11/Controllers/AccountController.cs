@@ -88,6 +88,16 @@ namespace WebApplication11.Controllers
             return View();
         }
 
+        public async Task<IActionResult> CreateRole()
+        {
+            await _roleManager.CreateAsync(new IdentityRole("Admin"));
+            await _roleManager.CreateAsync(new IdentityRole("Member"));
+
+
+
+            return RedirectToAction("Index", "Home");
+        }
+
 
     }
 }
