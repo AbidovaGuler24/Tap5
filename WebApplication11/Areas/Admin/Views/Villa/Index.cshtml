@@ -1,0 +1,43 @@
+﻿@using WebApplication11.Models
+
+@model List<Villa
+>
+@{
+    int count = 0;
+}
+<div class="container">
+    <h1> Blog </h1>
+    <a asp-action="Create" class="btn btn-submit"> Create </a>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Price</th>
+                <th scope="col">Title</th>
+                <th scope="col">ImgUrl</th>
+
+            
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                count++;
+                <tr>
+                    <th scope="row">@count</th>
+                    <td>@item.Price</td>
+                    <td>@item.Title</td>
+                    <td with="100px">
+                        <img with="100%" src="~/Upload/Villa/@item.ImgUrl" />
+                    </td>
+                    <td>
+                        <a class="btn btn-dark" asp-action="Update" asp-route-id="@item.Id"> Update </a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id"> Delete </a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
