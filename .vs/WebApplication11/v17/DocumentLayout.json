@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\areas\\admin\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\areas\\admin\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\helpers\\exictence\\filecreateextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -89,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F332044-92B5-4B4D-B06E-E092668A90E5}|WebApplication11\\WebApplication11.csproj|c:\\users\\i novbe\\source\\repos\\webapplication11\\webapplication11\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -130,35 +130,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Areas\\Admin\\Views\\Villa\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication11\\Areas\\Admin\\Views\\Villa\\Create.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Areas\\Admin\\Views\\Villa\\Create.cshtml",
-              "RelativeToolTip": "WebApplication11\\Areas\\Admin\\Views\\Villa\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T06:47:03.162Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "VillaVm.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\ViewModels\\VillaVm.cs",
-              "RelativeDocumentMoniker": "WebApplication11\\ViewModels\\VillaVm.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\ViewModels\\VillaVm.cs",
-              "RelativeToolTip": "WebApplication11\\ViewModels\\VillaVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T06:24:56.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "FileCreateExtension.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Helpers\\Exictence\\FileCreateExtension.cs",
               "RelativeDocumentMoniker": "WebApplication11\\Helpers\\Exictence\\FileCreateExtension.cs",
@@ -170,19 +146,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VillaController.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Areas\\Admin\\Controllers\\VillaController.cs",
               "RelativeDocumentMoniker": "WebApplication11\\Areas\\Admin\\Controllers\\VillaController.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Areas\\Admin\\Controllers\\VillaController.cs",
               "RelativeToolTip": "WebApplication11\\Areas\\Admin\\Controllers\\VillaController.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T06:20:42.817Z"
+              "WhenOpened": "2025-05-19T06:20:42.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Views\\Account\\Login.cshtml",
@@ -200,14 +177,14 @@
               "RelativeDocumentMoniker": "WebApplication11\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Controllers\\AccountController.cs",
               "RelativeToolTip": "WebApplication11\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAgwGEAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T05:14:51.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Villa.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Models\\Villa.cs",
               "RelativeDocumentMoniker": "WebApplication11\\Models\\Villa.cs",
@@ -219,13 +196,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DashBoardController.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Areas\\Admin\\Controllers\\DashBoardController.cs",
               "RelativeDocumentMoniker": "WebApplication11\\Areas\\Admin\\Controllers\\DashBoardController.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Areas\\Admin\\Controllers\\DashBoardController.cs",
               "RelativeToolTip": "WebApplication11\\Areas\\Admin\\Controllers\\DashBoardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T04:38:23.155Z",
               "EditorCaption": ""
@@ -244,20 +221,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication11\\Program.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Program.cs",
               "RelativeToolTip": "WebApplication11\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T04:24:53.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication11\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication11\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:18:50.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication11\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication11\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T05:29:29.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "VillaVm.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\ViewModels\\VillaVm.cs",
+              "RelativeDocumentMoniker": "WebApplication11\\ViewModels\\VillaVm.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\ViewModels\\VillaVm.cs",
+              "RelativeToolTip": "WebApplication11\\ViewModels\\VillaVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:24:56.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Areas\\Admin\\Views\\Villa\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication11\\Areas\\Admin\\Views\\Villa\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Areas\\Admin\\Views\\Villa\\Create.cshtml",
+              "RelativeToolTip": "WebApplication11\\Areas\\Admin\\Views\\Villa\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T06:47:03.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Areas\\Admin\\Views\\Villa\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Areas\\Admin\\Views\\Villa\\Index.cshtml",
@@ -269,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Areas\\Admin\\Views\\Villa\\Update.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Areas\\Admin\\Views\\Villa\\Update.cshtml",
@@ -281,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "LoginVm.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\ViewModels\\LoginVm.cs",
               "RelativeDocumentMoniker": "WebApplication11\\ViewModels\\LoginVm.cs",
@@ -293,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Views\\_ViewStart.cshtml",
@@ -305,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Views\\Shared\\_Layout.cshtml",
@@ -317,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Views\\_ViewImports.cshtml",
@@ -329,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "RegisterVm.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\ViewModels\\RegisterVm.cs",
               "RelativeDocumentMoniker": "WebApplication11\\ViewModels\\RegisterVm.cs",
@@ -353,19 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "WebApplication11\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "WebApplication11\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAqwDgAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T05:29:29.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication11\\appsettings.json",
@@ -377,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "WebApplication11\\Models\\AppUser.cs",
@@ -389,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication11\\DAL\\AppDbContext.cs",
@@ -401,19 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication11\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication11\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T04:18:50.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "WebApplication11\\Models\\Base\\BaseEntity.cs",
@@ -425,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Views\\Home\\Index.cshtml",

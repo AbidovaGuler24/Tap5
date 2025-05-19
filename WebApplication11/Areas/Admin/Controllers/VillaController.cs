@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApplication11.DAL;
 using WebApplication11.Helpers.Exictence;
@@ -8,6 +9,7 @@ using WebApplication11.ViewModels;
 namespace WebApplication11.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class VillaController : Controller
     {
         AppDbContext _context;

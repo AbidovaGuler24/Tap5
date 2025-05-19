@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gbg6xwLZ5dqkeaSpu2FFqzOps3SCaqKXoqVB9Fc1tm8=",
+  "Hash": "MCgEjssyQbyN59uaYSwWX43cqRdKXmremghsYVMjLMA=",
   "Source": "WebApplication11",
   "BasePath": "_content/WebApplication11",
   "Mode": "Default",
@@ -36077,6 +36077,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Upload\\Villa\\515a44a6-2d11-4ff9-89f3-9cacccb13a72images (1).jfif"
+    },
+    {
+      "Identity": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Upload\\Villa\\89550277-b4c1-407f-867c-ab9cbfcefe76o1.jfif",
+      "SourceId": "WebApplication11",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\",
+      "BasePath": "_content/WebApplication11",
+      "RelativePath": "Upload/Villa/89550277-b4c1-407f-867c-ab9cbfcefe76o1.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\Villa\\89550277-b4c1-407f-867c-ab9cbfcefe76o1.jfif"
     },
     {
       "Identity": "C:\\Users\\I Novbe\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",

@@ -49,7 +49,7 @@ namespace WebApplication11.Controllers
                 return View(registerVm);
             }
 
-
+            await _userManage.AddToRoleAsync(appUser, "Admin");
             return RedirectToAction("Login");
             
         }
