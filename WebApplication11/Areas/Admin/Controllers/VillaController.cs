@@ -136,12 +136,12 @@ namespace WebApplication11.Areas.Admin.Controllers
 
         public async Task<IActionResult> Delete(int id)
         {
-            var chef = await _context.Villas.FindAsync(id);
-            if (chef == null)
+            var villa = await _context.Villas.FindAsync(id);
+            if (villa == null)
             {
                 return BadRequest();
             }
-            _context.Villas.Remove(chef);
+            _context.Villas.Remove(villa);
             await _context.SaveChangesAsync();
             return RedirectToAction("Index");
 
